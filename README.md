@@ -1,6 +1,6 @@
 ## Hi, I’m Naveen
 
-DevOps & Cloud Engineer  
+A passionate DevOps & Cloud Engineer.
 Docker | Kubernetes | GitHub Actions | Jenkins | Terraform | Ansible | AWS | GCP | Linux
 
 ---
@@ -40,7 +40,8 @@ Docker | Kubernetes | GitHub Actions | Jenkins | Terraform | Ansible | AWS | GCP
 ---
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenKumar-0&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenKumar-0&show_icons=true&hide_title=true)
+
 
 ---
 
