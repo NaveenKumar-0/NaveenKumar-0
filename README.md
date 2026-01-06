@@ -9,7 +9,6 @@ Docker | Kubernetes | GitHub Actions | Jenkins | Terraform | Ansible | AWS | GCP
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ---
