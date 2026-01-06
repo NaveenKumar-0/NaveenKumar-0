@@ -1,6 +1,6 @@
 ## Hi, I’m Naveen
 
-A passionate DevOps & Cloud Engineer
+<h3 style="color:#36BCF7;">A passionate DevOps & Cloud Engineer</h3>
 Docker | Kubernetes | GitHub Actions | Jenkins | Terraform | Ansible | AWS | GCP | Linux
 
 ---
